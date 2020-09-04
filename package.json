@@ -395,7 +395,7 @@
     "node-gyp": "3.8.0",
     "node-libs-browser": "2.2.0",
     "node-pre-gyp": "0.10.3",
-    "node-sass": "4.11.0",
+    "node-sass": "4.13.1",
     "nopt": "3.0.6",
     "normalize-path": "2.1.1",
     "normalize-url": "1.9.1",
