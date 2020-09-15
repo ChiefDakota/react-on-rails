@@ -391,7 +391,7 @@
     "needle": "2.2.4",
     "negotiator": "0.6.1",
     "next-tick": "1.0.0",
-    "node-forge": "0.7.5",
+    "node-forge": "0.10.0",
     "node-gyp": "3.8.0",
     "node-libs-browser": "2.2.0",
     "node-pre-gyp": "0.10.3",
